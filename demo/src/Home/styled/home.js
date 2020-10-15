@@ -20,18 +20,6 @@ header{
     line-height: 60px;
     margin-left: 10px;
 }
-.img1{
-    position: absolute;
-    cursor: pointer;
-    z-index: 19940201;
-    left: 210px;
-    color: #fff;
-    top:15px;
-    text-align: center;
-    width: 30px;
-    height:30px;
-    transform:rotate(90deg);
-}
 i{ color: #fff;}
 .topUl{
     position: absolute;
