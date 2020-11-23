@@ -21,7 +21,6 @@ export default class Aside extends Component {
                 <div className="box1">
                     <div className="img2"><img src={tsIcon} alt="" /></div>
                     <span className="txt">你好!Adim，欢迎回来</span>
-                    
                         <Layout.Row className="tac">
                             <Layout.Col span={8}>
                                 <Menu defaultActive="2" className="el-menu-vertical-demo" onOpen={this.onOpen.bind(this)} onClose={this.onClose.bind(this)}>
